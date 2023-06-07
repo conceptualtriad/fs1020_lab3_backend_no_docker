@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9ca914ad-db1d-4d39-a912-f5308661b9de",
+    "name": "some string",
+    "email": "address@email.com",
+    "phoneNumber": "2343331234",
+    "content": "User's message goes here"
+  },
+  {
+    "id": "9ede3285-9059-4062-98de-3558404f73ce",
+    "name": "some string",
+    "email": "address@email.com",
+    "phoneNumber": "2343331234",
+    "content": "User's message goes here"
+  },
+  {
+    "id": "b2026aa6-e657-4afc-b11b-a43887b7f0e8",
+    "name": "some string",
+    "email": "address@email.com",
+    "phoneNumber": "2343331234",
+    "content": "User's message goes here"
+  },
+  {
+    "id": "4a0f4ddf-053f-4722-9586-f6aff3b2d3a2",
+    "name": "some string",
+    "email": "address@email.com",
+    "phoneNumber": "2343331234",
+    "content": "User's message goes here"
+  }
+]

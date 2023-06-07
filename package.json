@@ -1,0 +1,35 @@
+{
+  "name": "course-project",
+  "version": "1.0.0",
+  "description": "For this project you must work alone to build a backend application consisting of a RESTful JSON API for a contact us form [_(examples)_](https://www.jotform.com/form-templates/category/contact-form) you'll be building out in a later class. All persistent data is to be stored in a simple JSON file that’s operated on through Node’s `fs` module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/fs41/course-project.git"
+  },
+  "keywords": [],
+  "author": "Darryl Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/fs41/course-project/issues"
+  },
+  "homepage": "https://gitlab.com/fs41/course-project#readme",
+  "dependencies": {
+    "argon2": "^0.28.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

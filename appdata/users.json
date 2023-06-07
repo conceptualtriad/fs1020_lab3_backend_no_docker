@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ecd0014c-a36c-4eee-a667-961ba11975e0",
+    "name": "Some Name",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$qG4e7dI4/PAoer3XB+6CUQ$GxxGD7Nn8Hjd3zeyKEjSPwcIRCUtbJptEd59FwW1yHA",
+    "email": "address@email.com"
+  },
+  {
+    "id": "1bf7cf76-2830-491c-9d34-712df7c081bd",
+    "name": "Some Name",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$lX3wXqZ/V85IP6EFdFb8cg$qjgZbkgdaaxM/HMaT9FHYPYmUdFitovrXAZSPq1uRdQ",
+    "email": "address@email.com"
+  },
+  {
+    "id": "a9e4d299-2988-48c1-8255-a8d1f747a13b",
+    "name": "Some Name",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$20fU0a1wZ1RRbx/fKU8ASQ$19iJlNJ9n/hN65bk7UFcGkD7ZE2NxlH51VwTnD6GZuE",
+    "email": "address@email.com"
+  },
+  {
+    "id": "aaf69e99-d038-4ad0-a1a1-95f56648cc35",
+    "name": "Some Name",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$wTnbVgDF6PADYTCmlKHyeQ$WIZP3VGkBNawBZKE2jylh2OR8ALilqjACR/OMxMHj+A",
+    "email": "address@email.com"
+  },
+  {
+    "id": "63335177-a7ac-4571-95be-c0dfcb187a39",
+    "name": "Some Name",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$k5RStllJSqZc1HOO+6vQEg$+FLTKpDkpxr94qCcnAHBywTnY2QSda4wTWkdWXlMIR8",
+    "email": "address@email.com"
+  }
+]
